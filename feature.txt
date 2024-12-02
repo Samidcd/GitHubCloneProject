@@ -1,1 +1,1 @@
-This is a feature for greeting users.
+This is a new feature
